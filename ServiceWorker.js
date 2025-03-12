@@ -1,9 +1,9 @@
 const cacheName = "PotionScape-node_builder-1.0";
 const contentToCache = [
     "Build/Node_Builder.loader.js",
-    "Build/Node_Builder.framework.js.br",
-    "Build/Node_Builder.data.br",
-    "Build/Node_Builder.wasm.br",
+    "Build/Node_Builder.framework.js",
+    "Build/Node_Builder.data",
+    "Build/Node_Builder.wasm",
     "TemplateData/style.css"
 
 ];
