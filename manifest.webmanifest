@@ -1,6 +1,6 @@
 {
-    "name": "node_builder",
-    "short_name": "node_builder",
+    "name": "node builder",
+    "short_name": "node builder",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
