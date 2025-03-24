@@ -1,4 +1,4 @@
-const cacheName = "PotionScape-node builder-0.1";
+const cacheName = "PotionScape-node builder-0.1.01";
 const contentToCache = [
     "Build/Node_Builder.loader.js",
     "Build/Node_Builder.framework.js",
